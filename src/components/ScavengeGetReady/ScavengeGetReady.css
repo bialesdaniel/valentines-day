@@ -1,0 +1,21 @@
+.GetReadyContainer {
+  display: flex;
+  flex-direction: column;
+  height: 100%
+}
+
+.HeaderContainer {
+  margin-top: 8px;
+  margin-bottom: 24px;
+}
+
+.RequirementsContainer {
+  margin: 16px;
+}
+
+.ActionContainer {
+  flex-grow:1;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}

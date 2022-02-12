@@ -1,0 +1,19 @@
+.ScavengeContainer{
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  margin-top: 24px;
+  place-content: space-between;
+}
+
+.ClueContainer{
+  padding: 24px;
+}
+
+.HintContainer{
+  padding:24px;
+}
+
+.ButtonContainer{
+
+}
