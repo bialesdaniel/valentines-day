@@ -39,12 +39,6 @@ const locations = [
     new Coordinates(42.3570287, -71.0524324),
   ),
   new Location(
-    'Hub Pub',
-    'The friendliest pub in the hub.',
-    'Ask Caitlin.',
-    new Coordinates(42.3570287, -71.0614445),
-  ),
-  new Location(
     'The Frog Pong',
     'This guy is just one kiss away from royalty.',
     'Ribbit.',
@@ -77,13 +71,13 @@ const locations = [
   new Location(
     'Taza Chocolate',
     'Let\'s take a sweet trip to Mexico.',
-    'We could play in the snow again if it hasn\'t melted.',
+    'We learned how they go from bean to bar here.',
     new Coordinates(42.3699833, -71.0937046),
   ),
   new Location(
     'Home',
     'This is where the heart is.',
-    'We learned how they go from bean to bar here.',
+    'Some people have been known to have nightmares on this street, but you seem to sleep just fine.',
     new Coordinates(42.3736843, -71.0953263),
   )
 ]

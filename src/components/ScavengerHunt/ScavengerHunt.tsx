@@ -46,8 +46,6 @@ export default function ScavengerHunt() {
     const currentLocation = new Coordinates(position.coords.latitude, position.coords.longitude)
     const distance = checkLocationDistance(currentLocation, location.coordinates)
     console.log(distance)
-    console.log(currentLocation)
-    console.log(location.coordinates)
     if (distance < DISTANCE_FORGIVENESS) {
       goToNextLocation()
     } else {

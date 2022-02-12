@@ -10,10 +10,10 @@ export default function ScavengeGetReady() {
       </div>
       <div className='RequirementsContainer'>
         <Typography variant="overline">You will need:</Typography>
-        <Typography variant="body1">Charlie card</Typography>
+        <Typography variant="body1">*Charlie card*</Typography>
         <Typography>*Mask*</Typography>
-        <Typography variant="body1">This phone</Typography>
-        <Typography variant="body1">To take pictures</Typography>
+        <Typography variant="body1">*This phone*</Typography>
+        <Typography variant="body1">*To take pictures*</Typography>
         <Typography variant="body1">*Walking shoes*</Typography>
         <Typography variant="body1">*Water*</Typography>
       </div>
